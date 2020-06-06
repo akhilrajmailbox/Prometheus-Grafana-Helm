@@ -1,0 +1,6 @@
+dependencies:
+- name: kube-state-metrics
+  repository: https://akhilrajmailbox.github.io/Prometheus-Grafana-Helm
+  version: 1.0.0
+digest: sha256:e013ae5c166e08e40a946da67031b1bebb335a80c72c104b18c15c73174a6881
+generated: "2020-06-06T10:20:22.122441+05:30"
