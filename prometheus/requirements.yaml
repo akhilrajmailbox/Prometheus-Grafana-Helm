@@ -1,0 +1,6 @@
+dependencies:
+
+  - name: kube-state-metrics
+    version: "1.0.0"
+    repository: https://akhilrajmailbox.github.io/Prometheus-Grafana-Helm
+    condition: kubeStateMetrics.enabled
